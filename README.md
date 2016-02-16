@@ -1,5 +1,3 @@
-# angular--mod-syntax theme
+# angular-mod-syntax theme
 
-A short description of your theme.
-
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+This is the Angular Material syntax theme that I modified so I could see all the whitespace characters. The colors the original was using were barely visible.
