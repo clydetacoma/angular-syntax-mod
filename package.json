@@ -1,7 +1,7 @@
 {
   "name": "atom-material-mod-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is the Atom Material syntax theme that I modified so I could see all the whitespace characters. The colors the original was using were barely visible.",
   "keywords": [
     "syntax",
